@@ -1,0 +1,54 @@
+body{
+    background-image: url("imagens/papel-parede-site.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 2em;
+}
+p{
+    text-align: justify;
+    text-indent: 2em;
+}
+.pink{
+    background-color: #b30d97;
+    width: 47%;
+    margin: 15px auto;
+    padding:25px;
+    border-radius:15px;
+    color: white;
+}
+picture img{
+    width: 100%;
+}
+
+.women{
+    width: 47%;
+    margin: 15px auto;
+    padding:25px;
+    background-color: white;
+    border-radius:15px;
+}
+.women img{
+    width: 15vw;
+    margin-left:15vw;
+    border: 7px solid #b30d97;
+    border-radius: 50%;
+}
+.mp4{
+    border: solid;
+}
+video{
+    width: 100%;
+}
+h2{
+    color: #b30d97;
+}
+/* 
+    == CORES USADAS ==
+    rosa escuro: #b30d97
+    rosa claro: #d70fb7
+*/
+
